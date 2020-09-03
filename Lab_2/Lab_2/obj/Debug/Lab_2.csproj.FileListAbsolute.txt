@@ -1,0 +1,9 @@
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\xandi\OneDrive\Documentos\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
